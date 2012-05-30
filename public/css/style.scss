@@ -137,3 +137,19 @@ h3 {
   text-align: center;
   padding: 20px 0 0 2px;
 }
+
+.blackout {
+  background-color: #000;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.burn {
+  background-image: url("../img/flames.gif");
+  position: absolute;
+  top: -60px;
+  left: 10px;
+  width: 48px;
+  height: 78px;
+}
